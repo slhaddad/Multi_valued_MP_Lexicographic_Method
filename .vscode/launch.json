@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Lancer EMP_Lexicographique (Debug)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/EMP_Lexicographique/bin/Debug/net10.0-windows/win-x64/EMP_Lexicographique.exe",
+      "args": [],
+      "cwd": "${workspaceFolder}/EMP_Lexicographique/bin/Debug/net10.0-windows/win-x64",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}
